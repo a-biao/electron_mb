@@ -1,0 +1,22 @@
+{
+  "name": "electron_mb",
+  "version": "1.0.0",
+  "description": "100目标",
+  "main": "main.js",
+  "dependencies": {
+    "electron-prebuilt": "^1.4.13"
+  },
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13",
+    "electron-reload": "^1.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "100%"
+  ],
+  "author": "lay",
+  "license": "ISC"
+}
